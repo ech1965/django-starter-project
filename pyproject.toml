@@ -2,7 +2,7 @@
 name = "django-starter-project"
 version = "0.1.0"
 description = "Opinionated boilerplate for Django projects."
-authors = ["Francisco Ceruti <hello@fceruti.com>"]
+authors = ["Francisco Ceruti <hello@fceruti.com>", "Etienne Charlirer <etienne@charlier.info>"]
 license = "MIT License"
 packages = [
     { include = "apps/**/*.py" },
